@@ -1,13 +1,13 @@
-package com.spring.login_signup;
+package com.securityapp.loginregis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LoginSignupApplication {
+public class LoginregisApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LoginSignupApplication.class, args);
+		SpringApplication.run(LoginregisApplication.class, args);
 	}
 
 }

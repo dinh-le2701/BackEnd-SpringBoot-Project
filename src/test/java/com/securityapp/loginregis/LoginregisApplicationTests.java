@@ -1,10 +1,10 @@
-package com.spring.login_signup;
+package com.securityapp.loginregis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LoginSignupApplicationTests {
+class LoginregisApplicationTests {
 
 	@Test
 	void contextLoads() {
